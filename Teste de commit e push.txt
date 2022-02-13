@@ -1,0 +1,4 @@
+1 - git init: inicia repositorio
+2 - git add: adiciona no commit
+3 - git commit: dá significado a mudança
+4 - git push 
